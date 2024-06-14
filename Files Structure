@@ -1,0 +1,6 @@
+main.py: Main entry point of the application.
+book.py: Class definition for the Book object.
+database.py: Database operations for storing and retrieving book data.
+cli.py: Command-line interface implementation.
+README.md: Documentation for the project.
+LICENSE: License information for the project.
